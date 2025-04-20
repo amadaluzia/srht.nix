@@ -1,0 +1,3 @@
+[submodule "git.sr.ht"]
+	path = git.sr.ht
+	url = https://git.sr.ht/~sircmpwn/git.sr.ht
